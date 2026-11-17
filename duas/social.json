@@ -1,0 +1,107 @@
+{
+  "topic": "social",
+  "title_en": "Social Etiquette",
+  "title_ur": "معاشرتی آداب",
+  "count": 9,
+  "duas": [
+    {
+      "id": 91,
+      "topic": "social",
+      "title": "When Sneezing",
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "transliteration": "Alhamdulillah",
+      "translation_english": "All praise is for Allah",
+      "translation_urdu": "تمام تعریفیں اللہ کے لیے ہیں",
+      "when": "After sneezing",
+      "reference": "Sahih al-Bukhari 6224"
+    },
+    {
+      "id": 92,
+      "topic": "social",
+      "title": "Reply to One Who Sneezes",
+      "arabic": "يَرْحَمُكَ اللَّهُ",
+      "transliteration": "Yarhamukallah",
+      "translation_english": "May Allah have mercy on you",
+      "translation_urdu": "اللہ تم پر رحم فرمائے",
+      "when": "When someone sneezes and says Alhamdulillah",
+      "reference": "Sahih al-Bukhari 6224"
+    },
+    {
+      "id": 93,
+      "topic": "social",
+      "title": "Response from the Sneezer",
+      "arabic": "يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+      "transliteration": "Yahdikumullahu wa yuslihu balakum",
+      "translation_english": "May Allah guide you and set your affairs right",
+      "translation_urdu": "اللہ تمہیں ہدایت دے اور تمہارا حال درست فرمائے",
+      "when": "Reply after hearing Yarhamukallah",
+      "reference": "Sahih al-Bukhari 6224"
+    },
+    {
+      "id": 94,
+      "topic": "social",
+      "title": "Thanking Someone",
+      "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+      "transliteration": "Jazakallahu khayra",
+      "translation_english": "May Allah reward you with good",
+      "translation_urdu": "اللہ تمہیں بہترین بدلہ دے",
+      "when": "When someone does you a favour",
+      "reference": "Jami' at-Tirmidhi 2035"
+    },
+    {
+      "id": 95,
+      "topic": "social",
+      "title": "End of a Gathering (Kaffarat al-Majlis)",
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+      "transliteration": "Subhanaka Allahumma wa bihamdik, ash-hadu an la ilaha illa ant, astaghfiruka wa atubu ilayk",
+      "translation_english": "Glory be to You, O Allah, and praise. I bear witness that there is no deity worthy of worship except You. I seek Your forgiveness and turn to You in repentance",
+      "translation_urdu": "اے اللہ! تو پاک ہے اپنی تعریف کے ساتھ، میں گواہی دیتا ہوں کہ تیرے سوا کوئی معبود نہیں، میں تجھ سے معافی مانگتا ہوں اور تیری طرف توبہ کرتا ہوں",
+      "when": "Before leaving a gathering (expiation for what was said in it)",
+      "reference": "Jami' at-Tirmidhi 3433"
+    },
+    {
+      "id": 96,
+      "topic": "social",
+      "title": "Seeing Someone in Difficulty",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ، وَفَضَّلَنِي عَلَىٰ كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
+      "transliteration": "Alhamdu lillahil-ladhi 'afani mimmabtalaka bih, wa faddalani 'ala kathirin mimman khalaqa tafdila",
+      "translation_english": "All praise is for Allah who has spared me from what He has tested you with, and has favoured me greatly over much of His creation",
+      "translation_urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے مجھے اس سے عافیت دی جس میں تمہیں مبتلا کیا، اور مجھے اپنی بہت سی مخلوق پر فضیلت دی",
+      "when": "Said quietly on seeing someone afflicted",
+      "reference": "Jami' at-Tirmidhi 3432"
+    },
+    {
+      "id": 97,
+      "topic": "social",
+      "title": "Looking in the Mirror",
+      "arabic": "اللَّهُمَّ أَنْتَ حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+      "transliteration": "Allahumma anta hassanta khalqi fahassin khuluqi",
+      "translation_english": "O Allah, You have made my appearance good, so make my character good",
+      "translation_urdu": "اے اللہ! تو نے میری صورت اچھی بنائی، پس میرے اخلاق بھی اچھے کر دے",
+      "when": "When looking in the mirror",
+      "reference": "Musnad Ahmad 3823"
+    },
+    {
+      "id": 98,
+      "topic": "social",
+      "title": "On Hearing Good News",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+      "transliteration": "Alhamdu lillahil-ladhi bi ni'matihi tatimmus-salihat",
+      "translation_english": "All praise is for Allah by whose favour good things are completed",
+      "translation_urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس کی نعمت سے نیک کام پورے ہوتے ہیں",
+      "when": "When something pleasing happens",
+      "reference": "Sunan Ibn Majah 3803"
+    },
+    {
+      "id": 99,
+      "topic": "social",
+      "title": "On Hearing Bad News",
+      "arabic": "الْحَمْدُ لِلَّهِ عَلَىٰ كُلِّ حَالٍ",
+      "transliteration": "Alhamdu lillahi 'ala kulli hal",
+      "translation_english": "All praise is for Allah in every circumstance",
+      "translation_urdu": "ہر حال میں تمام تعریفیں اللہ کے لیے ہیں",
+      "when": "When something displeasing happens",
+      "reference": "Sunan Ibn Majah 3803"
+    }
+  ]
+}

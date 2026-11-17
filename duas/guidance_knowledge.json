@@ -1,0 +1,118 @@
+{
+  "topic": "guidance_knowledge",
+  "title_en": "Guidance, Knowledge & Decisions",
+  "title_ur": "ہدایت، علم اور فیصلے",
+  "count": 10,
+  "duas": [
+    {
+      "id": 53,
+      "topic": "guidance_knowledge",
+      "title": "Increase Me in Knowledge",
+      "arabic": "رَّبِّ زِدْنِي عِلْمًا",
+      "transliteration": "Rabbi zidni 'ilma",
+      "translation_english": "My Lord, increase me in knowledge",
+      "translation_urdu": "اے میرے رب! میرے علم میں اضافہ فرما",
+      "when": "Before studying / Anytime",
+      "reference": "Quran 20:114"
+    },
+    {
+      "id": 54,
+      "topic": "guidance_knowledge",
+      "title": "Beneficial Knowledge",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+      "transliteration": "Allahumma inni as'aluka 'ilman nafi'a, wa rizqan tayyiba, wa 'amalan mutaqabbala",
+      "translation_english": "O Allah, I ask You for beneficial knowledge, good provision and accepted deeds",
+      "translation_urdu": "اے اللہ! میں تجھ سے نفع دینے والا علم، پاکیزہ رزق اور قبول ہونے والا عمل مانگتا ہوں",
+      "when": "After Fajr prayer",
+      "reference": "Sunan Ibn Majah 925"
+    },
+    {
+      "id": 55,
+      "topic": "guidance_knowledge",
+      "title": "Benefit Me with What I Learn",
+      "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا",
+      "transliteration": "Allahummanfa'ni bima 'allamtani, wa 'allimni ma yanfa'uni, wa zidni 'ilma",
+      "translation_english": "O Allah, benefit me with what You have taught me, teach me what will benefit me, and increase me in knowledge",
+      "translation_urdu": "اے اللہ! جو تو نے مجھے سکھایا اس سے مجھے نفع دے، جو مجھے نفع دے وہ مجھے سکھا، اور میرے علم میں اضافہ فرما",
+      "when": "Before or after studying",
+      "reference": "Jami' at-Tirmidhi 3599; Sunan Ibn Majah 251"
+    },
+    {
+      "id": 56,
+      "topic": "guidance_knowledge",
+      "title": "Guidance and Piety",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَىٰ وَالتُّقَىٰ، وَالْعَفَافَ وَالْغِنَىٰ",
+      "transliteration": "Allahumma inni as'alukal-huda wat-tuqa, wal-'afafa wal-ghina",
+      "translation_english": "O Allah, I ask You for guidance, piety, chastity and self-sufficiency",
+      "translation_urdu": "اے اللہ! میں تجھ سے ہدایت، تقویٰ، پاک دامنی اور بے نیازی مانگتا ہوں",
+      "when": "Anytime",
+      "reference": "Sahih Muslim 2721"
+    },
+    {
+      "id": 57,
+      "topic": "guidance_knowledge",
+      "title": "Firmness of the Heart",
+      "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ",
+      "transliteration": "Ya Muqallibal-qulub, thabbit qalbi 'ala dinik",
+      "translation_english": "O Turner of hearts, keep my heart firm upon Your religion",
+      "translation_urdu": "اے دلوں کو پھیرنے والے! میرے دل کو اپنے دین پر ثابت قدم رکھ",
+      "when": "Anytime (the Prophet ﷺ said it often)",
+      "reference": "Jami' at-Tirmidhi 2140"
+    },
+    {
+      "id": 58,
+      "topic": "guidance_knowledge",
+      "title": "Hearts Not to Deviate",
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
+      "transliteration": "Rabbana la tuzigh qulubana ba'da idh hadaytana wa hab lana min ladunka rahmah, innaka antal-Wahhab",
+      "translation_english": "Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself. Indeed, You are the Bestower",
+      "translation_urdu": "اے ہمارے رب! ہدایت دینے کے بعد ہمارے دلوں کو ٹیڑھا نہ کر، اور ہمیں اپنی طرف سے رحمت عطا فرما، بے شک تو ہی بہت عطا کرنے والا ہے",
+      "when": "Anytime",
+      "reference": "Quran 3:8"
+    },
+    {
+      "id": 59,
+      "topic": "guidance_knowledge",
+      "title": "Dua of Musa for Ease",
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
+      "transliteration": "Rabbishrah li sadri, wa yassir li amri, wahlul 'uqdatan min lisani, yafqahu qawli",
+      "translation_english": "My Lord, expand my chest for me, ease my task for me, and untie the knot from my tongue, so they may understand my speech",
+      "translation_urdu": "اے میرے رب! میرا سینہ کھول دے، میرا کام میرے لیے آسان کر دے، اور میری زبان کی گرہ کھول دے تاکہ لوگ میری بات سمجھ سکیں",
+      "when": "Before speaking, presenting or exams",
+      "reference": "Quran 20:25-28"
+    },
+    {
+      "id": 60,
+      "topic": "guidance_knowledge",
+      "title": "Guide Us to the Right Course",
+      "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+      "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi' lana min amrina rashada",
+      "translation_english": "Our Lord, grant us mercy from Yourself and prepare for us right guidance in our affair",
+      "translation_urdu": "اے ہمارے رب! ہمیں اپنی طرف سے رحمت عطا فرما اور ہمارے معاملے میں ہمارے لیے درستی مہیا فرما",
+      "when": "When facing a decision",
+      "reference": "Quran 18:10"
+    },
+    {
+      "id": 61,
+      "topic": "guidance_knowledge",
+      "title": "Join Me with the Righteous",
+      "arabic": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+      "transliteration": "Rabbi hab li hukman wa alhiqni bis-salihin",
+      "translation_english": "My Lord, grant me wisdom and join me with the righteous",
+      "translation_urdu": "اے میرے رب! مجھے حکمت عطا فرما اور مجھے نیک لوگوں میں شامل فرما",
+      "when": "Anytime",
+      "reference": "Quran 26:83"
+    },
+    {
+      "id": 62,
+      "topic": "guidance_knowledge",
+      "title": "Istikhara (Seeking Guidance in a Decision)",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ، اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَٰذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَٰذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ",
+      "transliteration": "Allahumma inni astakhiruka bi 'ilmik, wa astaqdiruka bi qudratik, wa as'aluka min fadlikal-'adheem, fa innaka taqdiru wa la aqdir, wa ta'lamu wa la a'lam, wa anta 'allamul-ghuyub. Allahumma in kunta ta'lamu anna hadhal-amra khayrun li fi dini wa ma'ashi wa 'aqibati amri faqdurhu li wa yassirhu li thumma barik li fih. Wa in kunta ta'lamu anna hadhal-amra sharrun li fi dini wa ma'ashi wa 'aqibati amri fasrifhu 'anni wasrifni 'anh, waqdur liyal-khayra haythu kana thumma ardini bih",
+      "translation_english": "O Allah, I seek Your guidance through Your knowledge, and I seek ability through Your power, and I ask You of Your great bounty. You have power and I have none, You know and I do not, and You are the Knower of the unseen. O Allah, if You know that this matter is good for me in my religion, my livelihood and the outcome of my affairs, then decree it for me, make it easy for me, and bless me in it. And if You know that this matter is bad for me in my religion, my livelihood and the outcome of my affairs, then turn it away from me and turn me away from it, and decree for me what is good wherever it may be, and make me content with it",
+      "translation_urdu": "اے اللہ! میں تیرے علم کے ذریعے تجھ سے بھلائی طلب کرتا ہوں، تیری قدرت کے ذریعے تجھ سے طاقت مانگتا ہوں، اور تیرے عظیم فضل کا سوال کرتا ہوں، کیونکہ تو قدرت رکھتا ہے اور میں قدرت نہیں رکھتا، تو جانتا ہے اور میں نہیں جانتا، اور تو غیب کی باتوں کو خوب جاننے والا ہے۔ اے اللہ! اگر تیرے علم میں یہ کام میرے دین، میری معاش اور میرے انجامِ کار کے لحاظ سے میرے لیے بہتر ہے تو اسے میرے لیے مقدر کر دے، اسے میرے لیے آسان کر دے، پھر اس میں میرے لیے برکت دے۔ اور اگر تیرے علم میں یہ کام میرے دین، میری معاش اور میرے انجامِ کار کے لحاظ سے میرے لیے برا ہے تو اسے مجھ سے پھیر دے اور مجھے اس سے پھیر دے، اور میرے لیے بھلائی مقدر کر دے جہاں کہیں بھی ہو، پھر مجھے اس پر راضی کر دے",
+      "when": "After two rak'ahs of voluntary prayer, naming the matter at 'hadhal-amr'",
+      "reference": "Sahih al-Bukhari 1162"
+    }
+  ]
+}

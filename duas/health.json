@@ -1,0 +1,74 @@
+{
+  "topic": "health",
+  "title_en": "Sickness & Health",
+  "title_ur": "بیماری اور صحت",
+  "count": 6,
+  "duas": [
+    {
+      "id": 71,
+      "topic": "health",
+      "title": "Visiting the Sick",
+      "arabic": "لَا بَأْسَ، طَهُورٌ إِنْ شَاءَ اللَّهُ",
+      "transliteration": "La ba's, tahurun in sha'Allah",
+      "translation_english": "No harm, it is a purification (from sins), if Allah wills",
+      "translation_urdu": "کوئی حرج نہیں، ان شاء اللہ یہ (گناہوں سے) پاکیزگی کا ذریعہ ہے",
+      "when": "When visiting a sick person",
+      "reference": "Sahih al-Bukhari 3616"
+    },
+    {
+      "id": 72,
+      "topic": "health",
+      "title": "Dua for the Sick",
+      "arabic": "أَسْأَلُ اللَّهَ الْعَظِيمَ، رَبَّ الْعَرْشِ الْعَظِيمِ، أَنْ يَشْفِيَكَ",
+      "transliteration": "As'alullahal-'Adheem, Rabbal-'Arshil-'Adheem, an yashfiyak",
+      "translation_english": "I ask Allah the Magnificent, Lord of the Magnificent Throne, to cure you",
+      "translation_urdu": "میں عظمت والے اللہ سے، جو عرشِ عظیم کا رب ہے، سوال کرتا ہوں کہ وہ تجھے شفا دے",
+      "when": "7x for a sick person",
+      "reference": "Sunan Abi Dawud 3106; Jami' at-Tirmidhi 2083"
+    },
+    {
+      "id": 73,
+      "topic": "health",
+      "title": "Ruqyah for Healing",
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "transliteration": "Allahumma Rabban-nas, adhhibil-ba's, ishfi antash-Shafi, la shifa'a illa shifa'uk, shifa'an la yughadiru saqama",
+      "translation_english": "O Allah, Lord of mankind, remove the harm and heal, You are the Healer. There is no healing except Your healing, a healing that leaves no illness behind",
+      "translation_urdu": "اے اللہ! لوگوں کے رب! تکلیف دور کر دے اور شفا دے، تو ہی شفا دینے والا ہے، تیری شفا کے سوا کوئی شفا نہیں، ایسی شفا دے جو کوئی بیماری نہ چھوڑے",
+      "when": "For oneself or a sick person, wiping with the right hand",
+      "reference": "Sahih al-Bukhari 5743; Sahih Muslim 2191"
+    },
+    {
+      "id": 74,
+      "topic": "health",
+      "title": "When Feeling Pain",
+      "arabic": "بِسْمِ اللَّهِ (ثَلَاثًا)، أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (سَبْعًا)",
+      "transliteration": "Bismillah (3x), A'udhu billahi wa qudratihi min sharri ma ajidu wa uhadhir (7x)",
+      "translation_english": "In the name of Allah (3x). I seek refuge in Allah and His power from the evil of what I feel and what I fear (7x)",
+      "translation_urdu": "اللہ کے نام سے (3 بار)۔ میں اللہ اور اس کی قدرت کی پناہ مانگتا ہوں اس تکلیف کے شر سے جو میں محسوس کرتا ہوں اور جس کا مجھے ڈر ہے (7 بار)",
+      "when": "Place your hand on the place of pain",
+      "reference": "Sahih Muslim 2202"
+    },
+    {
+      "id": 75,
+      "topic": "health",
+      "title": "Dua of Ayyub in Illness",
+      "arabic": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+      "transliteration": "Anni massaniyad-durru wa anta arhamur-rahimin",
+      "translation_english": "Indeed, adversity has touched me, and You are the Most Merciful of the merciful",
+      "translation_urdu": "بے شک مجھے تکلیف پہنچی ہے اور تو سب رحم کرنے والوں سے بڑھ کر رحم کرنے والا ہے",
+      "when": "In illness or hardship",
+      "reference": "Quran 21:83"
+    },
+    {
+      "id": 76,
+      "topic": "health",
+      "title": "Refuge from Serious Diseases",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ، وَالْجُنُونِ، وَالْجُذَامِ، وَمِنْ سَيِّئِ الْأَسْقَامِ",
+      "transliteration": "Allahumma inni a'udhu bika minal-baras, wal-junun, wal-judham, wa min sayyi'il-asqam",
+      "translation_english": "O Allah, I seek refuge in You from leprosy, madness, elephantiasis and from all evil diseases",
+      "translation_urdu": "اے اللہ! میں تیری پناہ مانگتا ہوں برص سے، دیوانگی سے، کوڑھ سے اور تمام بری بیماریوں سے",
+      "when": "Anytime",
+      "reference": "Sunan Abi Dawud 1554"
+    }
+  ]
+}

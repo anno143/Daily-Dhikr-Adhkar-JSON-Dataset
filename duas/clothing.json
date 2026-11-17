@@ -1,0 +1,30 @@
+{
+  "topic": "clothing",
+  "title_en": "Clothing",
+  "title_ur": "لباس",
+  "count": 2,
+  "duas": [
+    {
+      "id": 31,
+      "topic": "clothing",
+      "title": "Wearing Clothes",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَٰذَا، وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+      "transliteration": "Alhamdu lillahil-ladhi kasani hadha, wa razaqanihi min ghayri hawlin minni wa la quwwah",
+      "translation_english": "All praise is for Allah who clothed me with this and provided it for me without any might or power from me",
+      "translation_urdu": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے مجھے یہ پہنایا اور میری کسی طاقت اور قوت کے بغیر مجھے یہ عطا کیا",
+      "when": "When putting on clothes",
+      "reference": "Sunan Abi Dawud 4023"
+    },
+    {
+      "id": 32,
+      "topic": "clothing",
+      "title": "Wearing New Clothes",
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+      "transliteration": "Allahumma lakal-hamdu anta kasawtanih, as'aluka min khayrihi wa khayri ma suni'a lah, wa a'udhu bika min sharrihi wa sharri ma suni'a lah",
+      "translation_english": "O Allah, all praise is Yours, You have clothed me with it. I ask You for its good and the good it was made for, and I seek refuge in You from its evil and the evil it was made for",
+      "translation_urdu": "اے اللہ! تیرے ہی لیے تمام تعریف ہے، تو نے ہی مجھے یہ پہنایا۔ میں تجھ سے اس کی بھلائی اور جس مقصد کے لیے یہ بنایا گیا اس کی بھلائی مانگتا ہوں، اور اس کے شر اور جس مقصد کے لیے یہ بنایا گیا اس کے شر سے تیری پناہ مانگتا ہوں",
+      "when": "When wearing a new garment",
+      "reference": "Sunan Abi Dawud 4020; Jami' at-Tirmidhi 1767"
+    }
+  ]
+}

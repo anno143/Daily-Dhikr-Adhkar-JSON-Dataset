@@ -1,0 +1,41 @@
+{
+  "topic": "fasting",
+  "title_en": "Fasting & Ramadan",
+  "title_ur": "روزہ اور رمضان",
+  "count": 3,
+  "duas": [
+    {
+      "id": 83,
+      "topic": "fasting",
+      "title": "Breaking the Fast",
+      "arabic": "ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ الْعُرُوقُ، وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+      "transliteration": "Dhahabaz-zama'u, wabtallatil-'uruq, wa thabatal-ajru in sha'Allah",
+      "translation_english": "The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills",
+      "translation_urdu": "پیاس چلی گئی، رگیں تر ہو گئیں، اور ان شاء اللہ اجر ثابت ہو گیا",
+      "when": "At iftar, after breaking the fast",
+      "reference": "Sunan Abi Dawud 2357"
+    },
+    {
+      "id": 84,
+      "topic": "fasting",
+      "title": "For Those Who Give Iftar",
+      "arabic": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+      "transliteration": "Aftara 'indakumus-sa'imun, wa akala ta'amakumul-abrar, wa sallat 'alaykumul-mala'ikah",
+      "translation_english": "May fasting people break their fast with you, may the righteous eat your food, and may the angels send blessings upon you",
+      "translation_urdu": "روزہ دار تمہارے ہاں روزہ افطار کریں، نیک لوگ تمہارا کھانا کھائیں، اور فرشتے تم پر رحمت کی دعا کریں",
+      "when": "When breaking the fast at someone's home",
+      "reference": "Sunan Abi Dawud 3854"
+    },
+    {
+      "id": 85,
+      "topic": "fasting",
+      "title": "When Provoked While Fasting",
+      "arabic": "إِنِّي صَائِمٌ",
+      "transliteration": "Inni sa'im",
+      "translation_english": "I am fasting",
+      "translation_urdu": "میں روزے سے ہوں",
+      "when": "When someone insults or argues with you while fasting",
+      "reference": "Sahih al-Bukhari 1904; Sahih Muslim 1151"
+    }
+  ]
+}

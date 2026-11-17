@@ -1,0 +1,63 @@
+{
+  "topic": "protection",
+  "title_en": "Protection",
+  "title_ur": "حفاظت",
+  "count": 5,
+  "duas": [
+    {
+      "id": 86,
+      "topic": "protection",
+      "title": "Refuge from the Loss of Blessings",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
+      "transliteration": "Allahumma inni a'udhu bika min zawali ni'matik, wa tahawwuli 'afiyatik, wa fuja'ati niqmatik, wa jami'i sakhatik",
+      "translation_english": "O Allah, I seek refuge in You from the loss of Your blessings, the change of the well-being You gave, sudden punishment from You, and all that displeases You",
+      "translation_urdu": "اے اللہ! میں تیری پناہ مانگتا ہوں تیری نعمت کے زوال سے، تیری عطا کردہ عافیت کے بدل جانے سے، تیری اچانک پکڑ سے اور تیری ہر طرح کی ناراضی سے",
+      "when": "Anytime",
+      "reference": "Sahih Muslim 2739"
+    },
+    {
+      "id": 87,
+      "topic": "protection",
+      "title": "Refuge from Shirk",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+      "transliteration": "Allahumma inni a'udhu bika an ushrika bika wa ana a'lam, wa astaghfiruka lima la a'lam",
+      "translation_english": "O Allah, I seek refuge in You from knowingly associating partners with You, and I seek Your forgiveness for what I do unknowingly",
+      "translation_urdu": "اے اللہ! میں تیری پناہ مانگتا ہوں کہ جان بوجھ کر تیرے ساتھ شرک کروں، اور جو انجانے میں ہو اس کی تجھ سے معافی مانگتا ہوں",
+      "when": "Anytime",
+      "reference": "Al-Adab al-Mufrad 716"
+    },
+    {
+      "id": 88,
+      "topic": "protection",
+      "title": "When Fearing an Enemy",
+      "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ، وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+      "transliteration": "Allahumma inna naj'aluka fi nuhurihim, wa na'udhu bika min shururihim",
+      "translation_english": "O Allah, we place You before them, and we seek refuge in You from their evil",
+      "translation_urdu": "اے اللہ! ہم تجھے ان کے مقابلے میں کرتے ہیں اور ان کے شر سے تیری پناہ مانگتے ہیں",
+      "when": "When fearing a person or group",
+      "reference": "Sunan Abi Dawud 1537"
+    },
+    {
+      "id": 89,
+      "topic": "protection",
+      "title": "Refuge from the Whispers of Devils",
+      "arabic": "رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+      "transliteration": "Rabbi a'udhu bika min hamazatish-shayatin, wa a'udhu bika Rabbi an yahdurun",
+      "translation_english": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me",
+      "translation_urdu": "اے میرے رب! میں شیطانوں کے وسوسوں سے تیری پناہ مانگتا ہوں، اور اے میرے رب! اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آئیں",
+      "when": "Anytime",
+      "reference": "Quran 23:97-98"
+    },
+    {
+      "id": 90,
+      "topic": "protection",
+      "title": "On Seeing Something Pleasing (Against the Evil Eye)",
+      "arabic": "مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Ma sha'Allah, la quwwata illa billah",
+      "translation_english": "What Allah has willed. There is no power except with Allah",
+      "translation_urdu": "جو اللہ نے چاہا، اللہ کے سوا کسی میں کوئی قوت نہیں",
+      "when": "When seeing something you admire in yourself or others",
+      "reference": "Quran 18:39"
+    }
+  ]
+}

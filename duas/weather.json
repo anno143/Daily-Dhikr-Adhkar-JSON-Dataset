@@ -1,0 +1,74 @@
+{
+  "topic": "weather",
+  "title_en": "Rain, Wind & Nature",
+  "title_ur": "بارش، ہوا اور موسم",
+  "count": 6,
+  "duas": [
+    {
+      "id": 77,
+      "topic": "weather",
+      "title": "When It Rains",
+      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+      "transliteration": "Allahumma sayyiban nafi'a",
+      "translation_english": "O Allah, make it a beneficial rain",
+      "translation_urdu": "اے اللہ! اسے نفع دینے والی بارش بنا",
+      "when": "When it rains",
+      "reference": "Sahih al-Bukhari 1032"
+    },
+    {
+      "id": 78,
+      "topic": "weather",
+      "title": "After Rain",
+      "arabic": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+      "transliteration": "Mutirna bi fadlillahi wa rahmatih",
+      "translation_english": "We have been given rain by the grace and mercy of Allah",
+      "translation_urdu": "ہم پر اللہ کے فضل اور اس کی رحمت سے بارش ہوئی",
+      "when": "After it rains",
+      "reference": "Sahih al-Bukhari 846; Sahih Muslim 71"
+    },
+    {
+      "id": 79,
+      "topic": "weather",
+      "title": "Heavy Rain",
+      "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا",
+      "transliteration": "Allahumma hawalayna wa la 'alayna",
+      "translation_english": "O Allah, around us and not upon us",
+      "translation_urdu": "اے اللہ! ہمارے اردگرد (برسا)، ہم پر نہیں",
+      "when": "When rain becomes excessive or harmful",
+      "reference": "Sahih al-Bukhari 1014"
+    },
+    {
+      "id": 80,
+      "topic": "weather",
+      "title": "When the Wind Blows",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيهَا، وَخَيْرَ مَا أُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيهَا، وَشَرِّ مَا أُرْسِلَتْ بِهِ",
+      "transliteration": "Allahumma inni as'aluka khayraha, wa khayra ma fiha, wa khayra ma ursilat bih, wa a'udhu bika min sharriha, wa sharri ma fiha, wa sharri ma ursilat bih",
+      "translation_english": "O Allah, I ask You for its good, the good within it and the good it was sent with, and I seek refuge in You from its evil, the evil within it and the evil it was sent with",
+      "translation_urdu": "اے اللہ! میں تجھ سے اس کی بھلائی، جو کچھ اس میں ہے اس کی بھلائی اور جس کے ساتھ یہ بھیجی گئی اس کی بھلائی مانگتا ہوں، اور اس کے شر، جو کچھ اس میں ہے اس کے شر اور جس کے ساتھ یہ بھیجی گئی اس کے شر سے تیری پناہ مانگتا ہوں",
+      "when": "When a strong wind blows",
+      "reference": "Sahih Muslim 899"
+    },
+    {
+      "id": 81,
+      "topic": "weather",
+      "title": "When Hearing Thunder",
+      "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ",
+      "transliteration": "Subhanal-ladhi yusabbihur-ra'du bi hamdihi wal-mala'ikatu min khifatih",
+      "translation_english": "Glory be to the One whom the thunder glorifies with His praise, as do the angels out of fear of Him",
+      "translation_urdu": "پاک ہے وہ ذات جس کی تسبیح گرج اس کی حمد کے ساتھ کرتی ہے اور فرشتے بھی اس کے خوف سے",
+      "when": "When hearing thunder",
+      "reference": "Muwatta Malik 1801 (from Abdullah ibn az-Zubayr); Quran 13:13"
+    },
+    {
+      "id": 82,
+      "topic": "weather",
+      "title": "Seeing the New Moon",
+      "arabic": "اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْيُمْنِ وَالْإِيمَانِ، وَالسَّلَامَةِ وَالْإِسْلَامِ، رَبِّي وَرَبُّكَ اللَّهُ",
+      "transliteration": "Allahumma ahillahu 'alayna bil-yumni wal-iman, was-salamati wal-Islam, Rabbi wa Rabbukallah",
+      "translation_english": "O Allah, let this moon appear on us with blessings and faith, safety and Islam. My Lord and your Lord is Allah",
+      "translation_urdu": "اے اللہ! اس چاند کو ہم پر برکت، ایمان، سلامتی اور اسلام کے ساتھ طلوع فرما۔ (اے چاند!) میرا اور تیرا رب اللہ ہے",
+      "when": "When sighting the new crescent moon",
+      "reference": "Jami' at-Tirmidhi 3451"
+    }
+  ]
+}
