@@ -30,7 +30,7 @@
     "translation_urdu": "اللہ سب سے بڑا ہے",
     "recommended_count": "33x or 34x after prayer / anytime",
     "category": "after_prayer",
-    "reference": "Sahih Muslim 597; Sahih al-Bukhari 3113 (34x before sleep)"
+    "reference": "Sahih Muslim 596 (34x takbir after prayer), 597; Sahih al-Bukhari 3113 (34x before sleep)"
   },
   {
     "id": 4,
@@ -39,7 +39,7 @@
     "transliteration": "La ilaha illa Allah",
     "translation_english": "There is no deity worthy of worship except Allah",
     "translation_urdu": "اللہ کے سوا کوئی معبود نہیں",
-    "recommended_count": "Anytime / 100x daily",
+    "recommended_count": "Anytime (the best dhikr)",
     "category": "general",
     "reference": "Jami' at-Tirmidhi 3383"
   },
@@ -71,7 +71,7 @@
     "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
     "transliteration": "SubhanAllahi wa bihamdihi, SubhanAllahil Adheem",
     "translation_english": "Glory be to Allah and all praise is His, Glory be to Allah the Magnificent",
-    "translation_urdu": "اللہ اپنی تعریف کے ساتھ پاک ہے، اللہ عظمت والا پاک ہے",
+    "translation_urdu": "پاک ہے اللہ اپنی تعریف کے ساتھ، پاک ہے اللہ عظمت والا",
     "recommended_count": "Anytime (Light on the tongue, heavy on the scales)",
     "category": "general",
     "reference": "Sahih al-Bukhari 6406; Sahih Muslim 2694"
@@ -96,7 +96,7 @@
     "translation_urdu": "اے اللہ! ہمارے نبی محمد صلی اللہ علیہ وسلم پر درود اور سلام بھیج",
     "recommended_count": "10x Morning & Evening / Abundantly on Fridays",
     "category": "salawat",
-    "reference": "Quran 33:56; Sahih Muslim 408"
+    "reference": "Quran 33:56; Sahih Muslim 408; Sunan Abi Dawud 1047 (abundantly on Friday); at-Tabarani (10x morning & evening, grading disputed)"
   },
   {
     "id": 10,
@@ -112,13 +112,13 @@
   {
     "id": 11,
     "dhikr": "Third Kalima (Tamjeed)",
-    "arabic": "سُبْحَانَ اللهِ وَالْحَمْدُ للهِ وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
     "transliteration": "SubhanAllahi walhamdulillahi wa la ilaha illa Allahu wa Allahu Akbar, wa la hawla wa la quwwata illa billahil 'Aliyyil 'Adheem",
     "translation_english": "Glory be to Allah, and all praise be to Allah, and there is no deity worthy of worship except Allah, and Allah is the Greatest. And there is no might nor power except with Allah, the Most High, the Most Great",
     "translation_urdu": "پاک ہے اللہ اور تمام تعریفیں اللہ ہی کے لیے ہیں اور اللہ کے سوا کوئی معبود نہیں اور اللہ سب سے بڑا ہے اور گناہوں سے بچنے کی طاقت اور نیک کام کرنے کی قوت اللہ ہی کی طرف سے ہے جو عالی شان اور عظمت والا ہے",
     "recommended_count": "Anytime / Highly rewarded daily remembrance",
     "category": "general",
-    "reference": "Sahih Muslim 2137 (first four phrases); Sahih al-Bukhari 6384 (hawqalah)"
+    "reference": "Sahih Muslim 2137 (first four phrases); Sunan Abi Dawud 832 (all five phrases together); Sahih al-Bukhari 6384 (hawqalah)"
   },
   {
     "id": 12,
@@ -134,11 +134,11 @@
   {
     "id": 13,
     "dhikr": "Sayyidul Istighfar (Master Prayer for Forgiveness)",
-    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
-    "transliteration": "Allahumma anta Rabbi la ilaha illa anta, khalaqtani wa ana 'abduka, wa ana 'ala 'ahdika wa wa'dika ma-stata'tu. A'udhu bika min sharri ma sana'tu, abu'u laka bi ni'matika 'alayya, wa abu'u bi dhanbi faghfir li fa innahu la yaghfiru ad-dhunuba illa anta",
-    "translation_english": "O Allah, You are my Lord, there is no deity worthy of worship except You. You created me and I am Your servant, and I am faithful to my covenant and my promise to You as much as I can. I seek refuge in You from the evil of what I have done. I acknowledge before You Your blessings upon me, and I acknowledge my sin, so forgive me, for indeed no one forgives sins except You",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma anta Rabbi la ilaha illa anta, khalaqtani wa ana 'abduka, wa ana 'ala 'ahdika wa wa'dika ma-stata'tu. A'udhu bika min sharri ma sana'tu, abu'u laka bi ni'matika 'alayya, wa abu'u laka bi dhanbi faghfir li fa innahu la yaghfiru ad-dhunuba illa anta",
+    "translation_english": "O Allah, You are my Lord, there is no deity worthy of worship except You. You created me and I am Your servant, and I abide by Your covenant and Your promise as much as I can. I seek refuge in You from the evil of what I have done. I acknowledge before You Your blessings upon me, and I acknowledge my sin, so forgive me, for indeed no one forgives sins except You",
     "translation_urdu": "اے اللہ! تو ہی میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں، اور میں اپنی استطاعت کے مطابق تیرے عہد اور وعدے پر قائم ہوں۔ میں اپنے کیے کے شر سے تیری پناہ مانگتا ہوں، میں تیرے سامنے تیرے احسانات کا اعتراف کرتا ہوں اور اپنے گناہوں کا اعتراف کرتا ہوں، پس مجھے معاف کر دے کیونکہ تیرے سوا کوئی گناہوں کو معاف نہیں کر سکتا",
-    "recommended_count": "1x Morning & 1x Evening (Guarantees Paradise if said with conviction)",
+    "recommended_count": "1x Morning & 1x Evening (whoever says it with conviction and dies that day or night is among the people of Paradise)",
     "category": "forgiveness",
     "reference": "Sahih al-Bukhari 6306"
   },
@@ -215,7 +215,7 @@
     "transliteration": "Astaghfirullahal-'Adheem alladhi la ilaha illa Huwal-Hayyul-Qayyumu wa atubu ilayh",
     "translation_english": "I seek forgiveness from Allah the Magnificent, there is no deity worthy of worship except Him, the Ever-Living, the Sustainer, and I turn to Him in repentance",
     "translation_urdu": "میں عظمت والے اللہ سے معافی مانگتا ہوں جس کے سوا کوئی معبود نہیں، وہ ہمیشہ زندہ اور سب کو قائم رکھنے والا ہے، اور میں اسی کی طرف توبہ کرتا ہوں",
-    "recommended_count": "3x / Anytime",
+    "recommended_count": "Anytime (sins forgiven even if one fled from the battlefield)",
     "category": "forgiveness",
     "reference": "Sunan Abi Dawud 1517; Jami' at-Tirmidhi 3577"
   },
@@ -228,7 +228,7 @@
     "translation_urdu": "اے میرے رب! مجھے بخش دے اور میری توبہ قبول فرما، بے شک تو توبہ قبول کرنے والا، نہایت رحم کرنے والا ہے",
     "recommended_count": "100x in one sitting",
     "category": "forgiveness",
-    "reference": "Sunan Abi Dawud 1516; Jami' at-Tirmidhi 3434"
+    "reference": "Sunan Abi Dawud 1516; Jami' at-Tirmidhi 3434 (ends 'at-Tawwabul-Ghafur')"
   },
   {
     "id": 22,

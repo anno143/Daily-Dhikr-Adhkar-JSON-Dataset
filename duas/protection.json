@@ -33,7 +33,7 @@
       "arabic": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ، وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
       "transliteration": "Allahumma inna naj'aluka fi nuhurihim, wa na'udhu bika min shururihim",
       "translation_english": "O Allah, we place You before them, and we seek refuge in You from their evil",
-      "translation_urdu": "اے اللہ! ہم تجھے ان کے مقابلے میں کرتے ہیں اور ان کے شر سے تیری پناہ مانگتے ہیں",
+      "translation_urdu": "اے اللہ! ہم تجھے ان کے مقابلے میں (ڈھال) بناتے ہیں، اور ان کے شر سے تیری پناہ مانگتے ہیں",
       "when": "When fearing a person or group",
       "reference": "Sunan Abi Dawud 1537"
     },
@@ -41,7 +41,7 @@
       "id": 89,
       "topic": "protection",
       "title": "Refuge from the Whispers of Devils",
-      "arabic": "رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+      "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
       "transliteration": "Rabbi a'udhu bika min hamazatish-shayatin, wa a'udhu bika Rabbi an yahdurun",
       "translation_english": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me",
       "translation_urdu": "اے میرے رب! میں شیطانوں کے وسوسوں سے تیری پناہ مانگتا ہوں، اور اے میرے رب! اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آئیں",
@@ -56,8 +56,8 @@
       "transliteration": "Ma sha'Allah, la quwwata illa billah",
       "translation_english": "What Allah has willed. There is no power except with Allah",
       "translation_urdu": "جو اللہ نے چاہا، اللہ کے سوا کسی میں کوئی قوت نہیں",
-      "when": "When seeing something you admire in yourself or others",
-      "reference": "Quran 18:39"
+      "when": "When seeing something you admire in yourself or others (also invoke blessing on it, e.g. 'Barakallahu fih')",
+      "reference": "Quran 18:39; Sunan Ibn Majah 3509 (invoking blessing against the evil eye)"
     }
   ]
 }
