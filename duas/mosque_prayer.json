@@ -13,7 +13,7 @@
       "translation_english": "O Allah, open for me the gates of Your mercy",
       "translation_urdu": "اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے",
       "when": "When entering the mosque (enter with the right foot)",
-      "reference": "Sahih Muslim 713"
+      "reference": "Sahih Muslim 713; Sahih al-Bukhari 426 (preferring the right)"
     },
     {
       "id": 15,
@@ -46,7 +46,7 @@
       "translation_english": "Glory be to You, O Allah, and praise. Blessed is Your name, exalted is Your majesty, and there is no deity worthy of worship besides You",
       "translation_urdu": "اے اللہ! تو پاک ہے اپنی تعریف کے ساتھ، تیرا نام بابرکت ہے، تیری شان بلند ہے، اور تیرے سوا کوئی معبود نہیں",
       "when": "At the start of prayer, after the opening takbir",
-      "reference": "Sunan Abi Dawud 775; Jami' at-Tirmidhi 243"
+      "reference": "Sahih Muslim 399; Sunan Abi Dawud 775; Jami' at-Tirmidhi 243"
     },
     {
       "id": 18,
@@ -57,7 +57,7 @@
       "translation_english": "Glory be to my Lord, the Magnificent",
       "translation_urdu": "پاک ہے میرا رب جو عظمت والا ہے",
       "when": "3x in ruku",
-      "reference": "Sahih Muslim 772"
+      "reference": "Sahih Muslim 772; Sunan Abi Dawud 886, Jami' at-Tirmidhi 261 (3x)"
     },
     {
       "id": 19,
@@ -79,7 +79,7 @@
       "translation_english": "Glory be to my Lord, the Most High",
       "translation_urdu": "پاک ہے میرا رب جو سب سے بلند ہے",
       "when": "3x in sujood",
-      "reference": "Sahih Muslim 772"
+      "reference": "Sahih Muslim 772; Sunan Abi Dawud 886, Jami' at-Tirmidhi 261 (3x)"
     },
     {
       "id": 21,
